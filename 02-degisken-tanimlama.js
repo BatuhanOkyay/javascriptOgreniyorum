@@ -48,5 +48,5 @@ const SERVER_PASSWORD = "oaisdjfas12134"
 console.log(SERVER_PASSWORD);
 
 //SERVER_PASSWORD = "1234"
-//console.log(SERVER_PASSWORD); bunu yapamayiz cunku const ile tanimlama yapiyorsak o seyin degismeyecegini soyleriz ama let ile tanimlama yaparsak onu degistirebiliriz.
+//console.log(SERVER_PASSWORD); bunu yapamayiz cunku const ile tanimlama yapiyorsak o seyin degismeyecegini soyleriz ama let ile tanimlama yaparsak onu degistirebiliriz...
 
